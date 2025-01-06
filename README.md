@@ -1,18 +1,15 @@
-# Imaginify - Revolutionizing Image Transformations with AI
+# AI SaaS application for Advanced Image Transformation
 
-Imaginify is an advanced image transformation platform leveraging cutting-edge AI technologies to provide seamless, intuitive, and powerful tools for image restoration, recoloring, background manipulation, object removal, and much more. Designed for creators and enthusiasts alike, Imaginify ensures a dynamic and responsive user experience with secure transactions and state-of-the-art search functionalities.
+This application offers advanced AI-driven tools for transforming images, making it easy to restore, recolor, adjust backgrounds, remove objects, and perform a variety of other edits. Crafted for both creative professionals and hobbyists, it ensures a smooth and interactive experience with cutting-edge features. The platform also prioritizes secure transactions and provides highly efficient search capabilities for a comprehensive, user-friendly environment.
 
 ---
 
 # 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
+1. 🚀 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+3. 🎨 [Features](#features)
+4. 🖥️ [Quick Start](#quick-start)
 
 ---
 
@@ -29,35 +26,35 @@ Imaginify is an advanced image transformation platform leveraging cutting-edge A
 
 ---
 
-## <a name="features">🔋 Features</a>
+## <a name="features">🎨 Features</a>
 
-👉 **Authentication and Authorization**: Secure user access with multi-factor authentication, role-based access controls, and protected routes.
+👉 User Authentication & Authorization: Safeguard access with multi-factor authentication, role-based permissions, and secure routing.
 
-👉 **Community Image Showcase**: Paginated display of user transformations for effortless exploration.
+👉 Community Image Gallery: Browse user-created transformations with an easy-to-navigate paginated display.
 
-👉 **Advanced Image Search**: AI-powered semantic search for locating images by content or objects within.
+👉 Smart Image Search: Leverage AI-powered semantic search to find images based on content or specific objects.
 
-👉 **Image Restoration**: State-of-the-art tools for reviving old or damaged images.
+👉 Image Restoration: Advanced tools to repair and restore aged or damaged images.
 
-👉 **Image Recoloring**: Seamlessly adjust or replace object colors with precision.
+👉 Color Adjustment: Effortlessly modify or replace colors of objects with high accuracy.
 
-👉 **Generative Fill**: AI-driven filling of missing or incomplete image areas.
+👉 AI-Driven Fill: Automatically fill missing or incomplete areas of images using advanced generative techniques.
 
-👉 **Object and Background Removal**: Intuitive tools to clean up images with ease.
+👉 Object & Background Removal: User-friendly tools to easily erase unwanted elements from images.
 
-👉 **Transformed Image Download**: Hassle-free saving and sharing of edited images.
+👉 Download Transformed Images: Simple and quick options to save or share edited images.
 
-👉 **Transformation Insights**: View detailed history and metadata for each transformation.
+👉 Transformation History & Insights: Access detailed records and metadata of every transformation performed.
 
-👉 **Transformation Management**: User control for updating or deleting image transformations.
+👉 Manage Transformations: Easily update or delete any image transformations as needed.
 
-👉 **Credits System**: Earn or purchase credits for various transformation operations.
+👉 Credit System: Earn or purchase credits to use for various transformation features.
 
-👉 **Profile Management**: Comprehensive dashboard for managing credits, images, and account settings.
+👉 Profile Dashboard: A centralized interface to manage credits, images, and account preferences.
 
-👉 **Secure Payments**: Stripe-powered transactions ensuring data security and compliance.
+👉 Secure Payment Processing: Transactions powered by Stripe for secure, compliant payment handling.
 
-👉 **Responsive Design**: Consistent performance and UX across all devices.
+👉 Mobile-Friendly Design: Optimized for smooth, consistent performance on all devices.
 
 ---
 
@@ -70,14 +67,6 @@ Ensure the following are installed on your system:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-
-### **Cloning the Repository**
-
-```bash
-# Clone the repository and navigate to the project directory
-git clone https://github.com/adrianhajdin/imaginify.git
-cd imaginify
-```
 
 ### **Installation**
 
