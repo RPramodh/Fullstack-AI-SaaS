@@ -58,7 +58,7 @@ This application offers advanced AI-driven tools for transforming images, making
 
 ---
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">🖥️ Quick Start</a>
 
 ### **Prerequisites**
 
@@ -116,7 +116,4 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
-Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
-
 ---
