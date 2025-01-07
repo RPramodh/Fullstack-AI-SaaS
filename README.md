@@ -28,33 +28,33 @@ This application offers advanced AI-driven tools for transforming images, making
 
 ## <a name="features">🎨 Features</a>
 
-⚓ User Authentication & Authorization: Safeguard access with multi-factor authentication, role-based permissions, and secure routing.
+⚓ **User Authentication & Authorization**: Safeguard access with multi-factor authentication, role-based permissions, and secure routing.
 
-⚓ Community Image Gallery: Browse user-created transformations with an easy-to-navigate paginated display.
+⚓ **Community Image Gallery**: Browse user-created transformations with an easy-to-navigate paginated display.
 
-⚓ Smart Image Search: Leverage AI-powered semantic search to find images based on content or specific objects.
+⚓ **Smart Image Search**: Leverage AI-powered semantic search to find images based on content or specific objects.
 
-⚓ Image Restoration: Advanced tools to repair and restore aged or damaged images.
+⚓ **Image Restoration**: Advanced tools to repair and restore aged or damaged images.
 
-⚓ Color Adjustment: Effortlessly modify or replace colors of objects with high accuracy.
+⚓ **Color Adjustment**: Effortlessly modify or replace colors of objects with high accuracy.
 
-⚓ AI-Driven Fill: Automatically fill missing or incomplete areas of images using advanced generative techniques.
+⚓ **AI-Driven Fill**: Automatically fill missing or incomplete areas of images using advanced generative techniques.
 
-⚓ Object & Background Removal: User-friendly tools to easily erase unwanted elements from images.
+⚓ **Object & Background Removal**: User-friendly tools to easily erase unwanted elements from images.
 
-⚓ Download Transformed Images: Simple and quick options to save or share edited images.
+⚓ **Download Transformed Images**: Simple and quick options to save or share edited images.
 
-⚓ Transformation History & Insights: Access detailed records and metadata of every transformation performed.
+⚓ **Transformation History & Insights**: Access detailed records and metadata of every transformation performed.
 
-⚓ Manage Transformations: Easily update or delete any image transformations as needed.
+⚓ **Manage Transformations**: Easily update or delete any image transformations as needed.
 
-⚓ Credit System: Earn or purchase credits to use for various transformation features.
+⚓ **Credit System**: Earn or purchase credits to use for various transformation features.
 
-⚓ Profile Dashboard: A centralized interface to manage credits, images, and account preferences.
+⚓ **Profile Dashboard**: A centralized interface to manage credits, images, and account preferences.
 
-⚓ Secure Payment Processing: Transactions powered by Stripe for secure, compliant payment handling.
+⚓ **Secure Payment Processing**: Transactions powered by Stripe for secure, compliant payment handling.
 
-⚓ Mobile-Friendly Design: Optimized for smooth, consistent performance on all devices.
+⚓ **Mobile-Friendly Design**: Optimized for smooth, consistent performance on all devices.
 
 ---
 
